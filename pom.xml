@@ -35,7 +35,7 @@
         <dependency>
             <groupId>io.springfox</groupId>
             <artifactId>springfox-swagger-ui</artifactId>
-            <version>2.2.2</version>
+            <version>2.10.0</version>
         </dependency>
         <!--Lombok主要用来消除POJO模板代码（例如，getter、setter等）的框架，也可做一些其他事情-->
         <dependency>
